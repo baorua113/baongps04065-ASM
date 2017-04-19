@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 10, 2016, 11:14:03 AM
+    Author     : Gia Bao
+*/
+body {
+    font: 13px/20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+    color: #404040;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+.header-tren {
+    width: 100%;
+    height: 120px;
+    background:#000;
+}
+.header-trenahi {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.logo {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: #ffcc33;
+    text-shadow: 5px 8px #FFF;
+    padding-top: 25px;
+}
+.logo1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffcc33;
+    padding-top: 25px;
+}
+

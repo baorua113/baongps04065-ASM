@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 10, 2016, 11:14:03 AM
+    Author     : Gia Bao
+*/
+body {
+    width: 100%;
+    height: auto;
+}
+.header-duoi {
+    width: 100%;
+    height: auto;
+    background:#FFF;
+}
+.image {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background:#FFF;
+}
+#hinh {
+    width: 100%;
+}
+.back{
+    position: absolute;
+    left: 155px;
+    top: 210px;
+}
+.next {
+    position: absolute;
+    left: 1175px;
+    top:210px;
+}
